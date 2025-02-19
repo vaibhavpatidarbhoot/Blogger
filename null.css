@@ -1,5 +1,4 @@
 
-<script type='application/ld+json'>{&quot;@context&quot;:&quot;https://schema.org&quot;,&quot;@type&quot;:&quot;WebSite&quot;,&quot;url&quot;:&quot;https://mojahidnextgen.blogspot.com/&quot;,&quot;name&quot;:&quot;MojahidNextGen&quot;,&quot;alternateName&quot;:&quot;MojahidNextGen&quot;,&quot;potentialAction&quot;:{&quot;@type&quot;:&quot;SearchAction&quot;,&quot;target&quot;:&quot;https://mojahidnextgen.blogspot.com/search?q={search_term_string}&quot;,&quot;query-input&quot;:&quot;required name=search_term_string&quot;}}</script>
 <style>
 *{-webkit-tap-highlight-color:transparent}
 *, ::after, ::before{-webkit-box-sizing:border-box;box-sizing:border-box}
@@ -108,7 +107,7 @@ body .invisible{visibility:hidden}
   .custom-posts .mb-4{display:none;}
   </style>
   
-
+<style>
 /* hero section by Vaibhav Bhoot*/
 
 svg {
@@ -296,4 +295,4 @@ svg .fill.c2 {
   width: 100px;
 }
 
-    
+    </style>
